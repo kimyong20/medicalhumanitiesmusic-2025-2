@@ -15,6 +15,8 @@ The soft melody envelops her inner turmoil, reminding her—and the audience—t
 
 Another film that deals with Alzheimer’s disease, [A Moment to Remember](kim-zia.md) differs from Still Alice in that it focuses not on the quiet loss of intellectual identity, but on the emotional pain of losing a loved one. Rather than portraying the perspective of Su-jin, who is losing her memory, the story centers on her lover’s gaze, unfolding the tragedy of the illness through the intertwined emotions of parting and enduring love. The inserted song “Please Forget Me” expresses this sentiment even more directly, using gentle piano melodies and poignant lyrics to convey both the sorrow of fading memories and the lingering warmth of love. The gradually fading melody symbolizes the erasure of memory, while the repeated refrain represents the persistence of love. Ultimately, the film portrays Alzheimer’s not merely as an illness, but as a process in which love endures longer than memory.
 
+[Funeral Wish - Lee Chanhyuk](https://www.youtube.com/watch?v=iIn_1_XDuBM&list=RDiIn_1_XDuBM&start_radio=1) It feels as if he is calmly watching his own future funeral. With a composed tone, the conversational lyrics deliver a message to those who have always thought of death as something only frightening and sad — telling them not to grieve. He says he’ll go first and settle down in heaven, giving hope that one day, we will meet our loved ones again.
+
 <img src="./kim-yongbin.png" alt="Abstract image of Alzheimer's" style="width:25%;" />
 
 # 스틸 앨리스
@@ -25,3 +27,5 @@ Another film that deals with Alzheimer’s disease, [A Moment to Remember](kim-z
 잔잔한 선율은 그녀의 내면을 차분히 감싸며, 아직 사라지지 않은 감정과 존재감을 조용히 일깨운다. 이 장면은 음악이 기억을 완전히 지워버릴 수는 없지만, 감정의 흔적만큼은 끝까지 붙잡아 주는 매개체임을 보여준다. 동시에 관객은 앨리스가 단순히 기억을 잃어가는 환자가 아니라, 여전히 사랑하고 느끼고 존재하는 한 사람이라는 사실을 깊게 공감하게 된다.
 
 알츠하이머를 다루는 또 다른 영화 [내 머릿속의 지우개](kim-zia.md)는 스틸 앨리스가 지적인 자아의 상실을 담담히 그려낸 것과 달리, 사랑하는 사람을 잃어가는 정서적 고통에 초점을 맞춘다. 기억을 잃어가는 수진의 시선보다는 그녀를 바라보는 연인의 시선을 중심으로, 병이 가져오는 비극을 ‘이별’과 ‘사랑의 지속’이라는 감정의 서사로 풀어낸다. 영화의 삽입곡 ‘날 그만 잊어요’는 이러한 감정선을 더욱 직접적으로 표현하는데, 서정적인 피아노 선율과 애절한 가사를 통해 잊혀짐의 슬픔과 여전히 남은 사랑의 온기를 동시에 전한다. 점차 흐려지는 멜로디는 기억의 소멸을, 반복되는 구절은 사랑의 지속을 상징하며, 결국 이 작품은 알츠하이머를 단순한 질병의 서사가 아닌 ‘사랑이 기억보다 오래 남는 과정’으로 그려낸다.
+
+[장례희망 - 이찬혁](https://www.youtube.com/watch?v=iIn_1_XDuBM&list=RDiIn_1_XDuBM&start_radio=1) 나중에 마주할 내 자신의 장례식 모습을 보고 있는 듯이 노래함. 담담한 어조로 대화하듯이 말하는 노랫 가사는 죽음에 대해 무섭고 슬프게만 생각하던 사람들에게 슬퍼하지 말라며 메세지를 남김. 먼저 가서 천국에 자리잡고 있을테니 언젠간 소중한 이들을 다시 만날 수 있을거란 희망을 줌.
